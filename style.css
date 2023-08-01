@@ -73,15 +73,14 @@ right: 20px;
 /**Navigation Bar**/
 .nav{
   list-style: none;
-	width: 100%;
+	width: 90%;
 	font-family: "rubik";
-  
   text-decoration:none;
   color:#008080;
 }
 
 .nav li{
-	width:35px;
+	width:2em;
   display: inline-block;
 	border:3px solid #008080;
   background-color: #02433c;
@@ -89,8 +88,8 @@ right: 20px;
   border-radius: 20px;
   text-align: center;
   padding: 6px;
-  margin-inline: 5px;
-  margin-bottom: 5px;
+  margin-inline: 0.25em;
+  margin-bottom: 0.5em;
 }
  
 
