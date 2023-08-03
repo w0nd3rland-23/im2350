@@ -22,30 +22,30 @@ p {
 
 h1 {
     font-family: "Rubik";
-    color: #b2f9e6;
+    color: #eefcf1;
     background-color:#02433c;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 30px;
     text-align: center;
   }
 
 h3 {
     font-family: "rubik";
     color:#3d5467;
-    background-color: #b2f9e6;
+    background-color: #eefcf1;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 30px;
   }
 
 li {
     font-family: "rubik";
-    color: #e1fff7;
+    color: #eefcf1;
     
   }
 
 a {
     font-family: "rubik";
-    color: #e1fff7;
+    color: #eefcf1;
   }
 
 .button{
@@ -56,7 +56,7 @@ right: 20px;
 
 .header-title{
   font-family: "Rubik";
-  color: #b2f9e6;
+  color: #eefcf1;
   background-color:#29887e;
   
   text-align: center; 
@@ -64,7 +64,7 @@ right: 20px;
 
 .name{
   font-family: "Rubik";
-  color: #b2f9e6;
+  color: #eefcf1;
   background-color:#29887e;
 
   text-align: center; 
